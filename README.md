@@ -8,3 +8,4 @@ Esta app aun esta en desarrollo. !!
 * login
 * interfaz de usuario mejorada
 * manejo de ajax
+* Algoritmos avanzados de busqueda (Quick Sort)
